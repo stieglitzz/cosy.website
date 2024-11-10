@@ -1,0 +1,150 @@
+/* Box sizing rules */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body,
+html {
+    margin: 0;
+    margin-block-end: 0;
+    padding: 0;
+}
+
+/* Prevent font size inflation */
+html {
+    -moz-text-size-adjust: none;
+    -webkit-text-size-adjust: none;
+    text-size-adjust: none;
+}
+
+/* Set core body defaults */
+body {
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.5;
+}
+
+/* Set shorter line heights on headings and interactive elements */
+h1,
+h2,
+h3,
+h4,
+button,
+input,
+label {
+    line-height: 1.1;
+}
+
+/* Balance text wrapping on headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-wrap: balance;
+    overflow-wrap: break-word
+}
+
+p {
+    text-wrap: pretty;
+    overflow-wrap: break-word
+}
+
+/* Make images easier to work with */
+img,
+picture,
+video,
+canvas,
+svg {
+    max-width: 100%;
+    display: block;
+}
+
+/* Inherit fonts for inputs and buttons */
+input,
+button,
+textarea,
+select {
+    font-family: inherit;
+    font-size: inherit;
+}
+
+/* OPINIATED STYLING */
+body {
+    display: flex;
+    flex-direction: column;
+    /* Stack elements vertically */
+    align-items: center;
+    /* Center them horizontally */
+    padding: 2rem;
+}
+
+header,
+main,
+section,
+footer {
+    max-width: 800px;
+    width: 100%;
+}
+
+section:last-child {
+    margin: 0;
+}
+
+header {
+    margin: 0 0 1rem 0;
+}
+
+section,
+main {
+    margin: 0rem 0 2rem 0;
+}
+
+footer {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+footer .back {
+    background-color: Gainsboro;
+    padding: 5px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin-top: 0;
+}
+
+section *:last-child,
+header *:last-child,
+main *:last-child {
+    margin-bottom: 0;
+}
+
+/* GUIDES */
+/* body {
+    border: 1px solid red;
+}
+
+header {
+    border: 1px solid green;
+}
+
+main {
+    border: 1px solid blue;
+}
+
+section {
+    border: 1px solid orange;
+}
+
+footer {
+    border: 1px solid fuchsia;
+} */

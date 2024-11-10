@@ -1,0 +1,25 @@
+@font-face {
+    font-family: jgs5;
+    src: url("/assets/fonts/jgs5.ttf");
+}
+
+body {
+    overflow: hidden;
+}
+
+main {
+    max-width: unset;
+}
+
+pre {
+    font-family: jgs5;
+    font-size: 30px;
+    white-space: pre;
+    line-height: 1;
+}
+
+.credit {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.85rem;
+    text-align: center;
+}
