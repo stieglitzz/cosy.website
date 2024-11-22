@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Death</title>
+    <link rel="stylesheet" href="/assets/css/reset.css">
+    <style>
+        .counter {
+            text-align: center;
+            font-size: 0.75rem;
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <p class="counter">It has been <span id="time-since"></span> since my mother died.</p>
+    </main>
+    <footer><a class="back" href="/index.html">Back</a></footer>
+
+    <script>
+        const currentDate = new Date();
+        const deathDate = new Date('2023-01-08');
+
+        const timeSince = currentDate - deathDate;
+        const totalDays = Math.floor(timeSince / 86400000);
+
+        const years = Math.floor(totalDays / 365);
+        const daysAfterYears = totalDays % 365;
+
+        const months = Math.floor(daysAfterYears / 30);
+        const daysAfterMonths = daysAfterYears % 30;
+
+        const weeks = Math.floor(daysAfterMonths / 7);
+        const days = daysAfterMonths % 7;
+
+        const yearText = years === 1 ? 'year' : 'years';
+        const monthText = months === 1 ? 'month' : 'months';
+        const weekText = weeks === 1 ? 'week' : 'weeks';
+        const dayText = days === 1 ? 'day' : 'days';
+        document.getElementById('time-since').textContent =
+            `${years} ${yearText}, ${months} ${monthText}, ${weeks} ${weekText}, and ${days} ${dayText}`;
+
+    </script>
+</body>
+
+</html>

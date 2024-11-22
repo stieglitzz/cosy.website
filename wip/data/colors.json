@@ -1,0 +1,916 @@
+[
+    {
+        "name": "Pastels",
+        "description": "",
+        "paletteColors": [
+            {
+                "colorGroup": "",
+                "colorSwatches": [
+                    {
+                        "colorName": "",
+                        "colorCode": "#FADADF"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#E6D2F0"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#CDEFEA"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#E7F6D0"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#F2F5F5"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#3E3E40"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "P90",
+        "description": "",
+        "paletteColors": [
+            {
+                "colorGroup": "Gray",
+                "colorSwatches": [
+                    {
+                        "colorName": "",
+                        "colorCode": "#1F1F1F"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#222222"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#2F2F2F"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#565656"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#777777"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#6D6F7C"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#A7A8AF"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#C5C5C5"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#E2E2E2"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#FFFFFF"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Blue",
+                "colorSwatches": [
+                    {
+                        "colorName": "",
+                        "colorCode": "#0057E7"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#00B0E7"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#345D98"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#5375A5"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#B2CCD6"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Pink & Red",
+                "colorSwatches": [
+                    {
+                        "colorName": "",
+                        "colorCode": "#D01CB3"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#D02D1C"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#DA4E3F"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Yellow",
+                "colorSwatches": [
+                    {
+                        "colorName": "",
+                        "colorCode": "#FEC32B"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#DABB7E"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#E9CF9C"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Green",
+                "colorSwatches": [
+                    {
+                        "colorName": "",
+                        "colorCode": "#30604A"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#3A7359"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#0EA662"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#6C9C87"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bright shades",
+        "description": "Candy-esque colors each with three shades.",
+        "paletteColors": [
+            {
+                "colorGroup": "Yellow",
+                "colorSwatches": [
+                    {
+                        "colorName": "",
+                        "colorCode": "#FDDA00"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#FFE03F"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#FFE771"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Pink",
+                "colorSwatches": [
+                    {
+                        "colorName": "",
+                        "colorCode": "#FC74EC"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#FD8DEF"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#FDA7F3"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Purple",
+                "colorSwatches": [
+                    {
+                        "colorName": "",
+                        "colorCode": "#B570EE"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#C28AF1"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#D0A4F4"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Lilac",
+                "colorSwatches": [
+                    {
+                        "colorName": "",
+                        "colorCode": "#7070FC"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#8A8AFD"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#A4A4FD"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Teal",
+                "colorSwatches": [
+                    {
+                        "colorName": "",
+                        "colorCode": "#61F2CA"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#7EF4D4"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#ADF8E4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "FotP2024",
+        "description": "Colors from the Festival of the Photocopier 2024 poster.",
+        "paletteColors": [
+            {
+                "colorGroup": "Purple",
+                "colorSwatches": [
+                    {
+                        "colorName": "purple",
+                        "colorCode": "#615eab"
+                    },
+                    {
+                        "colorName": "ultramarine",
+                        "colorCode": "#7875c2"
+                    },
+                    {
+                        "colorName": "darkMauve",
+                        "colorCode": "#c186b6"
+                    },
+                    {
+                        "colorName": "lilac",
+                        "colorCode": "#e1c3f7"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Blue",
+                "colorSwatches": [
+                    {
+                        "colorName": "mediumBlue",
+                        "colorCode": "#4867b7"
+                    },
+                    {
+                        "colorName": "azure",
+                        "colorCode": "#576ca5"
+                    },
+                    {
+                        "colorName": "cornflower",
+                        "colorCode": "#66a2d4"
+                    },
+                    {
+                        "colorName": "ice",
+                        "colorCode": "#dcf0f9"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Pink",
+                "colorSwatches": [
+                    {
+                        "colorName": "fluroPink",
+                        "colorCode": "#ff339a"
+                    },
+                    {
+                        "colorName": "rose",
+                        "colorCode": "#fac3c8"
+                    },
+                    {
+                        "colorName": "pink",
+                        "colorCode": "#f0c1f7"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Orange",
+                "colorSwatches": [
+                    {
+                        "colorName": "melon",
+                        "colorCode": "#ffbf41"
+                    },
+                    {
+                        "colorName": "bisque",
+                        "colorCode": "#f1ccb1"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Other",
+                "colorSwatches": [
+                    {
+                        "colorName": "fluroGreen",
+                        "colorCode": "#33ff67"
+                    },
+                    {
+                        "colorName": "white",
+                        "colorCode": "#f5f5f5"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Raspberry",
+        "description": "Colors used in my Homer dashboard.",
+        "paletteColors": [
+            {
+                "colorGroup": "Pink",
+                "colorSwatches": [
+                    {
+                        "colorName": "",
+                        "colorCode": "#c84d80"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#d06792"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#d880a4"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#df99b6"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#e7b3c8"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#f7e6ed"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Black",
+                "colorSwatches": [
+                    {
+                        "colorName": "",
+                        "colorCode": "#424242"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#363636"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#303030"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mystery",
+        "description": "",
+        "paletteColors": [
+            {
+                "colorGroup": "",
+                "colorSwatches": [
+                    {
+                        "colorName": "",
+                        "colorCode": "#FF0038"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#DEB221"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#fa90a7"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#B061FF"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#005C59"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#20b2aa"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#00cc99"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#16d7d6"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#b1ebe1"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#d5f0ee"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#272B39"
+                    },
+                    {
+                        "colorName": "",
+                        "colorCode": "#00A651"
+                    },
+                    {
+                        "colorName": "pink",
+                        "colorCode": "#ffb2e0"
+                    },
+                    {
+                        "colorName": "blue",
+                        "colorCode": "#0000ff"
+                    },
+                    {
+                        "colorName": "mint",
+                        "colorCode": "#a3efc2"
+                    },
+                    {
+                        "colorName": "yellow",
+                        "colorCode": "#f9f871"
+                    },
+                    {
+                        "colorName": "black",
+                        "colorCode": "#1c1d21"
+                    },
+                    {
+                        "colorName": "white",
+                        "colorCode": "#f6f6f6"
+                    },
+                    {
+                        "colorName": "red",
+                        "colorCode": "#dc143c"
+                    },
+                    {
+                        "colorName": "pink",
+                        "colorCode": "rgba(255, 72, 176, 0.25)"
+                    },
+                    {
+                        "colorName": "blue",
+                        "colorCode": "#1f3a93"
+                    },
+                    {
+                        "colorName": "red",
+                        "colorCode": "#ff0000"
+                    },
+                    {
+                        "colorName": "link",
+                        "colorCode": "#0000ff"
+                    },
+                    {
+                        "colorName": "black",
+                        "colorCode": "#050709"
+                    },
+                    {
+                        "colorName": "green",
+                        "colorCode": "#3055a0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Windows Button - Bevel",
+        "description": "Colors from the Windows 98 button",
+        "paletteColors": [
+            {
+                "colorGroup": "",
+                "colorSwatches": [
+                    {
+                        "colorName": "Frame",
+                        "colorCode": "#0a0a0a"
+                    },
+                    {
+                        "colorName": "Shadow",
+                        "colorCode": "#808080"
+                    },
+                    {
+                        "colorName": "Base",
+                        "colorCode": "#dfdfdf"
+                    },
+                    {
+                        "colorName": "Highlight",
+                        "colorCode": "#ffffff"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pink",
+        "description": "A pink color palette I created by referencing the colors and shades of https://handmade-web.net/workshops/interlude/index.html",
+        "paletteColors": [
+            {
+                "colorGroup": "",
+                "colorSwatches": [
+                    {
+                        "colorName": "Pink500: Button hover",
+                        "colorCode": "#ff78d4"
+                    },
+                    {
+                        "colorName": "Pink400: Body BG",
+                        "colorCode": "#fec1eb"
+                    },
+                    {
+                        "colorName": "Pink300: BG Box",
+                        "colorCode": "#fec8ed"
+                    },
+                    {
+                        "colorName": "Pink200: EX BG/Inner Box BG",
+                        "colorCode": "#fed0ef"
+                    },
+                    {
+                        "colorName": "Pink100: Lighter BG",
+                        "colorCode": "#fff0fa"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Small Directory Simple",
+        "description": "",
+        "paletteColors": [
+            {
+                "colorGroup": "Brights",
+                "colorSwatches": [
+                    {
+                        "colorName": "pink",
+                        "colorCode": "hsl(308, 97%, 77%)"
+                    },
+                    {
+                        "colorName": "purple",
+                        "colorCode": "hsl(273, 79%, 74%)"
+                    },
+                    {
+                        "colorName": "blue",
+                        "colorCode": "hsl(240, 97%, 77%)"
+                    },
+                    {
+                        "colorName": "teal",
+                        "colorCode": "hsl(161, 80%, 71%)"
+                    },
+                    {
+                        "colorName": "yellow",
+                        "colorCode": "hsl(50, 100%, 62%)"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Neutrals",
+                "colorSwatches": [
+                    {
+                        "colorName": "black",
+                        "colorCode": "#0b0b0b"
+                    },
+                    {
+                        "colorName": "dark-black",
+                        "colorCode": "#333333"
+                    },
+                    {
+                        "colorName": "black",
+                        "colorCode": "hsl(240, 2%, 25%)"
+                    },
+                    {
+                        "colorName": "gray",
+                        "colorCode": "hsl(62, 13%, 96%)"
+                    },
+                    {
+                        "colorName": "gray",
+                        "colorCode": "#f5f5f5"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Small Directory Light",
+        "description": "",
+        "paletteColors": [
+            {
+                "colorGroup": "Orange",
+                "colorSwatches": [
+                    {
+                        "colorName": "Highlight",
+                        "colorCode": "hsla(34, 100%, 80%,1)"
+                    },
+                    {
+                        "colorName": "Base",
+                        "colorCode": "hsla(34, 100%, 80%,0.75)"
+                    },
+                    {
+                        "colorName": "Dark",
+                        "colorCode": "hsla(34, 100%, 80%,0.5)"
+                    },
+                    {
+                        "colorName": "Shadow",
+                        "colorCode": "hsla(34, 100%, 80%,0.25)"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Pink",
+                "colorSwatches": [
+                    {
+                        "colorName": "Highlight",
+                        "colorCode": "hsla(307, 95%, 90%,1)"
+                    },
+                    {
+                        "colorName": "Base",
+                        "colorCode": "hsla(307, 95%, 90%,0.75)"
+                    },
+                    {
+                        "colorName": "Dark",
+                        "colorCode": "hsla(307, 95%, 90%,0.5)"
+                    },
+                    {
+                        "colorName": "Shadow",
+                        "colorCode": "hsla(307, 95%, 90%,0.25)"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Purple",
+                "colorSwatches": [
+                    {
+                        "colorName": "Highlight",
+                        "colorCode": "hsla(273, 80%, 90%,1)"
+                    },
+                    {
+                        "colorName": "Base",
+                        "colorCode": "hsla(273, 80%, 90%,0.75)"
+                    },
+                    {
+                        "colorName": "Dark",
+                        "colorCode": "hsla(273, 80%, 90%,0.5)"
+                    },
+                    {
+                        "colorName": "Shadow",
+                        "colorCode": "hsla(273, 80%, 90%,0.25)"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Blue",
+                "colorSwatches": [
+                    {
+                        "colorName": "Highlight",
+                        "colorCode": "hsla(207, 84%, 80%, 1)"
+                    },
+                    {
+                        "colorName": "Base",
+                        "colorCode": "hsla(207, 84%, 80%, 0.75)"
+                    },
+                    {
+                        "colorName": "Dark",
+                        "colorCode": "hsla(207, 84%, 80%, 0.5)"
+                    },
+                    {
+                        "colorName": "Shadow",
+                        "colorCode": "hsla(207, 84%, 80%, 0.25)"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Teal",
+                "colorSwatches": [
+                    {
+                        "colorName": "Highlight",
+                        "colorCode": "hsla(164, 60%, 80%,1)"
+                    },
+                    {
+                        "colorName": "Base",
+                        "colorCode": "hsla(164, 60%, 80%,0.75)"
+                    },
+                    {
+                        "colorName": "Dark",
+                        "colorCode": "hsla(164, 60%, 80%,0.5)"
+                    },
+                    {
+                        "colorName": "Shadow",
+                        "colorCode": "hsla(164, 60%, 80%,0.25)"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Gray",
+                "colorSwatches": [
+                    {
+                        "colorName": "Highlight",
+                        "colorCode": "hsla(0, 0%, 90%, 1)"
+                    },
+                    {
+                        "colorName": "Base",
+                        "colorCode": "hsla(0, 0%, 90%, 0.75)"
+                    },
+                    {
+                        "colorName": "Dark",
+                        "colorCode": "hsla(0, 0%, 90%, 0.5)"
+                    },
+                    {
+                        "colorName": "Shadow",
+                        "colorCode": "hsla(0, 0%, 90%, 0.25)"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Black",
+                "colorSwatches": [
+                    {
+                        "colorName": "Highlight",
+                        "colorCode": "hsla(0, 0%, 15%, 1)"
+                    },
+                    {
+                        "colorName": "Base",
+                        "colorCode": "hsla(0, 0%, 15%, 0.75)"
+                    },
+                    {
+                        "colorName": "Dark",
+                        "colorCode": "hsla(0, 0%, 15%, 0.5)"
+                    },
+                    {
+                        "colorName": "Shadow",
+                        "colorCode": "hsla(0, 0%, 15%, 0.25)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Small Directory Shades",
+        "description": "",
+        "paletteColors": [
+            {
+                "colorGroup": "Orange",
+                "colorSwatches": [
+                    {
+                        "colorName": "Dark",
+                        "colorCode": "hsl(34, 100%, 60%)"
+                    },
+                    {
+                        "colorName": "Base",
+                        "colorCode": "#ffbd66"
+                    },
+                    {
+                        "colorName": "Bright",
+                        "colorCode": "hsl(34, 100%, 80%)"
+                    },
+                    {
+                        "colorName": "Opacity",
+                        "colorCode": "hsl(34, 100%, 70%, 0.5)"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Pink",
+                "colorSwatches": [
+                    {
+                        "colorName": "Dark",
+                        "colorCode": "hsl(307, 95%, 70%)"
+                    },
+                    {
+                        "colorName": "Base",
+                        "colorCode": "hsl(307, 95%, 80%)"
+                    },
+                    {
+                        "colorName": "Bright",
+                        "colorCode": "hsl(307, 95%, 90%)"
+                    },
+                    {
+                        "colorName": "Opacity",
+                        "colorCode": "hsla(307, 95%, 80%, 0.5)"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Purple",
+                "colorSwatches": [
+                    {
+                        "colorName": "Dark",
+                        "colorCode": "hsl(273, 80%, 70%)"
+                    },
+                    {
+                        "colorName": "Base",
+                        "colorCode": "#d0a4f4"
+                    },
+                    {
+                        "colorName": "Bright",
+                        "colorCode": "hsl(273, 80%, 90%)"
+                    },
+                    {
+                        "colorName": "Opacity",
+                        "colorCode": "hsla(273, 80%, 80%, 0.5)"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Blue",
+                "colorSwatches": [
+                    {
+                        "colorName": "Dark",
+                        "colorCode": "hsl(216, 84%, 70%)"
+                    },
+                    {
+                        "colorName": "Base",
+                        "colorCode": "hsl(207, 84%, 80%)"
+                    },
+                    {
+                        "colorName": "Bright",
+                        "colorCode": "hsl(216, 84%, 90%)"
+                    },
+                    {
+                        "colorName": "Opacity",
+                        "colorCode": "hsla(214, 84%, 80%, 0.5)"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Teal",
+                "colorSwatches": [
+                    {
+                        "colorName": "Dark",
+                        "colorCode": "hsl(164, 60%, 60%)"
+                    },
+                    {
+                        "colorName": "Base",
+                        "colorCode": "#85e0c8"
+                    },
+                    {
+                        "colorName": "Bright",
+                        "colorCode": "hsl(164, 60%, 80%)"
+                    },
+                    {
+                        "colorName": "Opacity",
+                        "colorCode": "hsla(164, 60%, 60%, 0.5)"
+                    }
+                ]
+            },
+            {
+                "colorGroup": "Black & gray",
+                "colorSwatches": [
+                    {
+                        "colorName": "",
+                        "colorCode": "hsl(0, 0%, 15%)"
+                    },
+                    {
+                        "colorName": "Dark",
+                        "colorCode": "hsl(0, 0%, 70%)"
+                    },
+                    {
+                        "colorName": "Base",
+                        "colorCode": "hsl(0, 0%, 80%)"
+                    },
+                    {
+                        "colorName": "Bright",
+                        "colorCode": "hsl(0, 0%, 90%)"
+                    },
+                    {
+                        "colorName": "Opacity",
+                        "colorCode": "hsla(0, 0%, 80%, 0.5)"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color</title>
+    <link rel="stylesheet" href="/assets/css/reset.css">
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        main {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .paletteWrapper {
+            margin-top: 2rem;
+            width: fit-content;
+            padding: 1rem;
+        }
+
+        .paletteWrapper:first-child {
+            margin-top: 0;
+        }
+
+        .details {
+            width: 100%;
+            margin-bottom: -0.25rem;
+            display: block;
+        }
+
+        h1 {
+            margin-bottom: 1rem;
+        }
+
+        h2 {
+            text-decoration: underline;
+        }
+
+        h3 {
+            margin-bottom: 0.25rem;
+        }
+
+        /* CONTAINS SWATCHES THAT ARE PART OF A COLOR GROUP */
+        .colorGroup {
+            margin-top: 1rem;
+        }
+
+        .swatchWrapper {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+        }
+
+        .swatch {
+            width: 100%;
+            padding: 0 1rem;
+            height: 75px;
+            border-radius: 1rem;
+            display: flex;
+            flex: 1 0 fit-content;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.85rem;
+            text-align: center;
+            line-height: 1;
+            text-transform: uppercase;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>I now spell the word 'colo<s>u</s>r' without the 'u'.</h1>
+    </header>
+
+    <section id="intro">
+        <p>In Australia (where I live), the word colo<s>u</s>r is spelt with a 'u'. Until last year, I spelt it with a
+            'u'.
+            When
+            writing CSS, the word colo<s>u</s>r does not have a 'u'. This because a mild annoyance for me so I dropped
+            the
+            'u'. I
+            like it better. The word is more symmetrical without the 'u'.</p>
+        <p>Anyway, this is a collection of colo<s>u</s>rs I like. Some of them are grouped together as palettes.</p>
+    </section>
+    <main id="main"></main>
+
+
+    <footer><a class="back" href="/index.html">Back</a></footer>
+    <script src="/assets/js/colors.js"></script>
+
+</body>
+
+</html>
