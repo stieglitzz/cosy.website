@@ -1,0 +1,25 @@
+{
+	"page:setup": {
+		"prefix": "page",
+		"body": [
+			"<!DOCTYPE html>",
+			"<html lang=\"en\">",
+			"<head>",
+			"  <meta charset=\"UTF-8\">",
+			"  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+			"  <title>${1:Document}</title>",
+			"  <link rel=\"stylesheet\" href=\"/assets/css/reset.css\">",
+			"</head>",
+			"<header>",
+			"</header>",
+			"<main>",
+			"<body>",
+			"  $0",
+			"</body>",
+			"</main>",
+			"<footer><a class=\"back\" href=\"/index.html\">Back</a></footer>",
+			"</html>",
+		],
+		"description": "HTML page with basic setup for Cosy Website."
+	}
+}

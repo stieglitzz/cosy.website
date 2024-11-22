@@ -17,7 +17,6 @@ pnpm-debug.log*
 jspm_packages/
 
 # VS Code specific settings
-.vscode/
 .history/
 
 # Windows system files

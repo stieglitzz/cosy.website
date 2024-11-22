@@ -1,0 +1,7 @@
+{
+	"page:setup": {
+		"prefix": "log",
+		"body": "<a href=\"/pi-log/$0\" class=\"log\"><date>..</date><p></p></a>",
+		"description": "Log entry for the Pi Log."
+	}
+}

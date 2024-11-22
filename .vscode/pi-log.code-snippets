@@ -1,0 +1,26 @@
+{
+	"page:setup": {
+		"prefix": "pi-log",
+		"body": [
+			"<!DOCTYPE html>",
+			"<html lang=\"en\">",
+			"<head>",
+			"  <meta charset=\"UTF-8\">",
+			"  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+			"  <title>${1:Document}</title>",
+			"  <link rel=\"stylesheet\" href=\"/assets/css/reset.css\">",
+			"</head>",
+			"<header>",
+			"</header>",
+			"<main>",
+			"<body>",
+			"<date>$0..</date>",
+			"<p></p>",
+			"</body>",
+			"</main>",
+			"<footer><a class=\"back\" href=\"/pages/pi-log.html\">Back to Pi Log</a></footer>",
+			"</html>",
+		],
+		"description": "HTML page for entries to the Pi Log."
+	}
+}
