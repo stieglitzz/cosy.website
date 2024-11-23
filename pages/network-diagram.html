@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Network Diagram</title>
+    <link rel="stylesheet" type="text/css" href="/assets/css/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/css/ascii.css" />
+    <style>
+        pre {
+            font-size: 16px;
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <pre>
+╒═════════════════════╕
+|NBN THING IN THE WALL|
+╘══════════╤══════════╛
+           |
+           ▼
+           |         ╒════════╕
+       ╒═══╧═══╕     |NETCOMM |
+       |NBN BOX├--▶--┤CF40MESH|
+       ╘═══════╛     |MODEM   |
+                     ╘════╤═══╛
+                          |
+                          ▼
+                          |     ethernet cable     ┌----------------┐
+                          └--▶------------------▶--┤ETHERNET ADAPTOR|
+                                                   └--------┬-------┘
+                                                            |
+                                                            ▼     ┌--------┐     ┌---------┐
+                                    usb-c to usb-a cable    |     |USB-C to|     |USB-A to |
+                              ┌--◀-----------------------◀--┴--▶--┤USB-A   ├--▶--┤MICRO USB|
+                              |                                   |ADAPTOR |     |ADAPTOR  |
+                              ▼                                   └--------┘     └----┬----┘
+                              |                                                       |
+                      ╔═══════╧══════╗                                                ▼
+                      ║PIBO          ║                                                |
+                      ║RASPBERRY PI 4║                                       ╔════════╧════════╗
+                      ║8GB           ║                                       ║RASPYPI          ║
+                      ╚══════════════╝                                       ║RASPBERRY PI ZERO║
+                                                                             ╚═════════════════╝
+
+</pre>
+    </main>
+    <section class="credit">Jgs font by <a href="https://adelfaure.net">Adel Faure</a>. Distributed by <a
+            https://velvetyne.fr">velvetyne.fr</a>.</section>
+    <footer><a class="back" href="/pages/pi-log.html">Back to Pi Log</a>
+        <a class="back" href="/index.html">Back</a>
+    </footer>
+</body>
+
+</html>

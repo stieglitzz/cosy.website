@@ -1,0 +1,27 @@
+{
+	"ascii": {
+		"prefix": "ascii",
+		"body": [
+			"<!DOCTYPE html>",
+			"<html lang=\"en\">",
+			"<head>",
+			"  <meta charset=\"UTF-8\">",
+			"  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+			"  <title>${1:Document}</title>",
+			"  <link rel=\"stylesheet\" type=\"text/css\" href=\"/assets/css/reset.css\" />",
+			"  <link rel=\"stylesheet\" type=\"text/css\" href=\"/assets/css/ascii.css\" />",
+			"</head>",
+			"<body>",
+			"<main>",
+			"<pre>",
+			"  $0",
+			"</pre>",
+			"</main>",
+			"<section class=\"credit\">Jgs font by <a href=\"https://adelfaure.net\">Adel Faure</a>. Distributed by <a href=\"https://velvetyne.fr\">velvetyne.fr</a>.</section>",
+			"<footer><a class=\"back\" href=\"/index.html\">Back</a></footer>",
+			"</body>",
+			"</html>"
+		],
+		"description": "page for ascii art"
+	}
+}

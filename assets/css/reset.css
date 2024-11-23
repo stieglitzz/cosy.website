@@ -56,6 +56,7 @@ p {
 
 a {
     font-weight: bold;
+    -webkit-text-stroke: 0;
 }
 
 /* Make images easier to work with */
