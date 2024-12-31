@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteBase /
+
+# Rewrite cosy.website/pagename to cosy.website/pages/pagename
+RewriteCond %{DOCUMENT_ROOT}/pages/%{REQUEST_URI} -f
+RewriteRule ^(.*)$ /pages/$1 [L]

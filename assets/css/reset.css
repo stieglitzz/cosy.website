@@ -48,7 +48,8 @@ h6 {
     overflow-wrap: break-word
 }
 
-p {
+p,
+li {
     text-wrap: pretty;
     overflow-wrap: break-word;
     -webkit-text-stroke: 0.5px black;
@@ -127,6 +128,23 @@ h5,
 h6,
 p {
     margin-top: 0;
+}
+
+li:first-child {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+p:has(+ul) {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+ul {
+    margin-top: 0;
+    padding-top: 0;
 }
 
 section *:last-child,

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Messy Pi</title>
+  <link rel="stylesheet" href="/assets/css/reset.css">
+</head>
+<header>
+</header>
+<main>
+
+  <body>
+    <date>24.12.2024</date>
+    <p>I think I need to start keeping a technical log of my Pi happenings. I make notes in Obsidian but I'm still
+      confused about the concept of links, tags and folders.</p>
+    <p>Things I would record are:</p>
+    <ul>
+      <li>issues</li>
+      <li>attempted resolutions</li>
+      <li>succesful resolutions</li>
+      <li>links resources and references used</li>
+      <li>added services and software</li>
+      <li>removed services and software</li>
+    </ul>
+    <p>Okay, this is just git commits. Maybe I should setup a private repo so I have version control for the Pi setups
+      and won't have to nuke everything when I break it.</p>
+    <p>This is the short list of Pi happenings today:</p>
+    <ul>
+      <li>continued setting up YunoHost on piBo</li>
+      <li>tried to connect umm.lol to piBo</li>
+      <li>umm.lol was loading a deleted, offline Homer dashboard but in a private browser it was loading <a
+          href="https://cosy.website">cosy.website</a></li>
+      <li>purging the Cloudflare cache for umm.lol stopped the Homer dashboard from loading</li>
+      <li>currently umm.lol is still loading <a href="https://cosy.website">cosy.website</a></li>
+      <li>when it does this the URL is https://umm.lol</li>
+      <li>there is no valid SSL cert but the SSL cert for <a href="https://cosy.website">cosy.website</a> is listed</li>
+      <li>remembered that I setup an Application Gateway through Cloudflare for umm.lol</li>
+      <li>deleted Application Gateway</li>
+    </ul>
+    <p>Issues to try and fix next time:</p>
+    <ul>
+      <li>connect umm.lol to YunoHost</li>
+      <li>resolve issues appearing in YunoHost diagnosis (DNS, port exposure, HTTP access and email)</li>
+      <li>work out best way to manage port forwarding on my modem (Sagemcom 5366 TN)</li>
+    </ul>
+  </body>
+</main>
+<footer><a class="back" href="/pages/pi-log.html">Back to Pi Log</a></footer>
+
+</html>
